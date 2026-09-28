@@ -1,0 +1,6 @@
+{
+  "name": "ClassTrack: University Attendance Planner & AI Advisor",
+  "description": "Calculate remaining semester classes, 75% danger zone thresholds, 90% distinction targets, irreversible detention alerts, OD leave simulation, and AI Attendance Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
